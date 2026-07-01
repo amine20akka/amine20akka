@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amine Akkari</h1>
-<h3 align="center">A Junior Software Engineer | Fullstack Developer | Cloud & DevOps Enthusiast</h3>
+<h3 align="center">Software Engineer | Fullstack Developer | Cloud & DevOps Enthusiast</h3>
 
 - 🌱 I’m currently learning **AWS and DevOps practices**
 
