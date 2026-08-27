@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amine Akkari</h1>
-<h3 align="center">Software Engineer | Fullstack Developer | Cloud & DevOps Enthusiast</h3>
+<h3 align="center">Software Engineer | Fullstack Developer | AWS</h3>
 
 - 💼 Full Stack Software Engineer at **[TrackIt](https://www.trackit.io/)**, an AWS cloud consulting & software development firm
 - 🌱 Continuously deepening my **AWS and DevOps** skills
-- 💬 Ask me about **Java/Spring Boot, Angular, and cloud-native architecture**
+- 💬 Ask me about **Java/Spring Boot, Angular, and AWS cloud-native architecture**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
